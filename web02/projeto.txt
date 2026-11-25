@@ -1,0 +1,70 @@
+https://seusite.com.br/dicas-melhorar-desempenho-notebook
+
+# PROJETO ESCOLHIDO
+
+Nome: TechFix
+
+Tipo:* Assistência técnica de computadores e notebooks.
+
+Descrição:** Empresa especializada em manutenção, reparo e otimização de computadores, oferecendo soluções acessíveis, atendimento de qualidade e suporte profissional.
+
+MISSÕES PRÁTICAS
+
+1. Persona
+João Pedro, 22 anos, estudante, deseja ter um notebook rápido para estudar e trabalhar. Procura uma assistência técnica confiável, com bom atendimento e preço acessível.
+
+ 2. Objetivo SMART
+Conquistar **20 novos pedidos de orçamento nos próximos 90 dias**, por meio de publicações nas redes sociais, campanhas promocionais e divulgação dos serviços da TechFix.
+
+3. Jornada do Consumidor
+- Descoberta: o cliente encontra dicas e anúncios da TechFix na internet.
+- Consideração: pesquisa os serviços, preços e avaliações.
+- Decisão: escolhe a TechFix e solicita um orçamento.
+
+4. Tópicos de Conteúdo
+- Dicas de manutenção de computadores.
+- Como melhorar o desempenho do notebook.
+- Diferenças entre HD e SSD.
+- Como proteger o computador contra vírus.
+- Cuidados para aumentar a vida útil do equipamento.
+
+5. Conteúdo (Publicação)
+Tema: Seu notebook está lento?**
+
+Apresentar cinco dicas para melhorar o desempenho do notebook: remover programas desnecessários, liberar espaço, atualizar o sistema, fechar aplicativos e realizar manutenção preventiva.
+
+ 6. Distribuição
+- Instagram: vídeos e dicas de tecnologia.
+- Facebook: divulgação de serviços e promoções.
+- Blog: artigos e tutoriais sobre computadores.
+
+7. Personalização
+- Estudantes:** "Tenha um notebook funcionando bem para seus estudos. Conte com a TechFix!"
+- Empresas:** "Mantenha seus computadores funcionando e evite problemas no trabalho. Conte com a TechFix!"
+
+ 8. SEO
+- Palavra-chave:** assistência técnica de computadores.
+- Título:** TechFix – Assistência Técnica de Computadores.
+- Descrição:** Conheça a TechFix e encontre soluções para manutenção, reparos e otimização de computadores e notebooks.
+
+9. Engajamento
+"Seu computador está lento ou apresentando problemas? Entre em contato com a TechFix e solicite seu orçamento!"
+
+10. Iteração
+Analisar visualizações, curtidas, comentários e pedidos de orçamento a cada 15 dias, melhorando as publicações conforme os resultados.
+
+11. Tendências
+Utilizar inteligência artificial para responder dúvidas frequentes e melhorar o atendimento aos clientes.
+
+ 12. Concorrência
+Analisar outras assistências técnicas e destacar a TechFix por meio de conteúdos educativos, divulgação nas redes sociais e atendimento de qualidade.
+
+ PÁGINA DE CONTEÚDO
+
+Título SEO:TechFix – 5 Dicas para Melhorar o Desempenho do Notebook.
+
+URL amigável:** dicas-melhorar-desempenho-notebook.
+
+Meta description: Descubra 5 dicas para melhorar o desempenho do seu notebook e conheça os serviços de manutenção da TechFix.
+
+Corpo do conteúdo: Publicação completa com cinco dicas de manutenção e cuidados com notebooks, apresentando os serviços da TechFix e incentivando o cliente a solicitar um orçamento.
